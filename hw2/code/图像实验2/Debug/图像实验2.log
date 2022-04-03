@@ -1,0 +1,2 @@
+﻿图像实验2.obj : error LNK2019: 无法解析的外部符号 "float * __cdecl gray_histogram(class HXLBMPFILE &,char const *)" (?gray_histogram@@YAPAMAAVHXLBMPFILE@@PBD@Z)，该符号在函数 _main 中被引用
+C:\Users\刘英吉\source\repos\图像实验2\Debug\图像实验2.exe : fatal error LNK1120: 1 个无法解析的外部命令
