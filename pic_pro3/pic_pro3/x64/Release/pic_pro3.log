@@ -1,9 +1,10 @@
 ﻿  arithmetic_coding.cpp
-C:\Users\86136\source\repos\pic_pro3\pic_pro3\arithmetic_coding.cpp(68,25): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
-  hxlbmpfile.cpp
-  main.cpp
+C:\Users\86136\source\repos\pic_pro3\pic_pro3\arithmetic_coding.cpp(101,25): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+C:\Users\86136\source\repos\pic_pro3\pic_pro3\arithmetic_coding.cpp(102,9): warning C4477: “printf”: 格式字符串“%f”需要类型“double”的参数，但可变参数 1 拥有了类型“unsigned int”
+C:\Users\86136\source\repos\pic_pro3\pic_pro3\arithmetic_coding.cpp(102,9): warning C4477: “printf”: 格式字符串“%f”需要类型“double”的参数，但可变参数 2 拥有了类型“unsigned int”
   正在生成代码
-  Previous IPDB not found, fall back to full compilation.
-  All 33 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  3 of 33 functions ( 9.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
   pic_pro3.vcxproj -> C:\Users\86136\source\repos\pic_pro3\x64\Release\pic_pro3.exe
